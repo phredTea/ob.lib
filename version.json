@@ -1,6 +1,6 @@
 {
- "version": "1.0.0",
- "page": "1.0.0",
+ "version": "1.0.1",
+ "page": "1.0.1",
  "notes": "352 games",
  "games": "https://raw.githubusercontent.com/phredTea/ob.lib/HEAD/games.json"
 }
